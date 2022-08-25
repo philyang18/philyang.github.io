@@ -12,8 +12,9 @@ Hi I'm Phil, a second year masters student at Carnegie Mellon Univeristy expecte
 
 Education
 ======
-* M.S. Mobile and Internet of Things Engineering @ Carnegie Mellon University                              Jun 2021 - December 2022 (Expected)
-  
+<div style="display: block">
+<span style="float: left">* M.S. Mobile and Internet of Things Engineering @ Carnegie Mellon University</span>   <span style="float: right"> Jun 2021 - December 2022 (Expected)</span>
+</div>
 * B.S. Mechanical Engineering @ University of Southern California                                                          Aug 2017 - May 2021
 
 * A.S. Mathematics @ Laney College                                                                                         Jun 2016 - Jul 2017
